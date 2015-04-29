@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/alchemist.png</file>
+        <file>images/berserker.png</file>
+        <file>images/golem.png</file>
+        <file>images/open.png</file>
+        <file>images/save.png</file>
+        <file>images/db.png</file>
+        <file>images/closeDb.png</file>
+        <file>images/saveas.png</file>
+        <file>images/addC.png</file>
+        <file>images/removeC.png</file>
+    </qresource>
+</RCC>
